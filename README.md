@@ -1,5 +1,7 @@
 # gridfinity-freecad
 
+![Screenshot of model in FreeCAD](https://raw.githubusercontent.com/wridgers/gridfinity-freecad/main/images/model.png)
+
 My attempt at parameterised gridfinity bins, with no addon dependencies.
 
 ## Instructions
